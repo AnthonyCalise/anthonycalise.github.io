@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/anthonycalise.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/anthonycalise.github.io/static/js/main.fba48d61.js",
-    "static/js/787.7741e68f.chunk.js": "/anthonycalise.github.io/static/js/787.7741e68f.chunk.js",
-    "static/media/logo.svg": "/anthonycalise.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/anthonycalise.github.io/index.html",
-    "main.073c9b0a.css.map": "/anthonycalise.github.io/static/css/main.073c9b0a.css.map",
-    "main.fba48d61.js.map": "/anthonycalise.github.io/static/js/main.fba48d61.js.map",
-    "787.7741e68f.chunk.js.map": "/anthonycalise.github.io/static/js/787.7741e68f.chunk.js.map"
+    "main.css": "/anthonycalise.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/anthonycalise.github.io.git/static/js/main.3c76ee3c.js",
+    "static/js/787.7741e68f.chunk.js": "/anthonycalise.github.io.git/static/js/787.7741e68f.chunk.js",
+    "static/media/logo.svg": "/anthonycalise.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anthonycalise.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/anthonycalise.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.3c76ee3c.js.map": "/anthonycalise.github.io.git/static/js/main.3c76ee3c.js.map",
+    "787.7741e68f.chunk.js.map": "/anthonycalise.github.io.git/static/js/787.7741e68f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fba48d61.js"
+    "static/js/main.3c76ee3c.js"
   ]
 }
